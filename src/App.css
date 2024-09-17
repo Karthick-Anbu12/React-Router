@@ -1,0 +1,11 @@
+img{
+    height: 150px;
+}
+.nav-item{
+    margin-left: 10px;
+}
+.link{
+    text-decoration: none;
+    position: relative;
+    color: black;
+}
